@@ -1,0 +1,1 @@
+const thisIsAVariable = 10
